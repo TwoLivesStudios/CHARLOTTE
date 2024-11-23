@@ -34,7 +34,10 @@
   },
   "name":"CHARLOTTE",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"eclipse_FASE3","path":"rooms/eclipse_FASE3/eclipse_FASE3.yy",},},
+    {"id":{"name":"fernando_MENU","path":"rooms/fernando_MENU/fernando_MENU.yy",},},
+    {"id":{"name":"monkeydpedro_FASE1","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},},
+    {"id":{"name":"ynunez_FASE2","path":"rooms/ynunez_FASE2/ynunez_FASE2.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
@@ -42,7 +45,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"fernando_MENU","path":"rooms/fernando_MENU/fernando_MENU.yy",},},
+    {"roomId":{"name":"monkeydpedro_FASE1","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},},
+    {"roomId":{"name":"ynunez_FASE2","path":"rooms/ynunez_FASE2/ynunez_FASE2.yy",},},
+    {"roomId":{"name":"eclipse_FASE3","path":"rooms/eclipse_FASE3/eclipse_FASE3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
