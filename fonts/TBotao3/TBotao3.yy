@@ -239,8 +239,8 @@
   "maintainGms1Font":false,
   "name":"TBotao3",
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Textos",
+    "path":"folders/Objetos/Textos.yy",
   },
   "pointRounding":0,
   "ranges":[

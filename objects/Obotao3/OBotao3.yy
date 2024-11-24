@@ -8,8 +8,8 @@
   "name":"OBotao3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Botões",
+    "path":"folders/Objetos/Botões.yy",
   },
   "parentObjectId":null,
   "persistent":false,
