@@ -25,6 +25,9 @@ else{
 }
 }
 
+
+
+
 repeat(abs(velv)){
 if(!place_meeting(x , y + sign(velv), Oparede)){
 	y += sign(velv)
@@ -33,3 +36,9 @@ else{
 	velv = 0;
 }
 }
+
+//VIDA
+if(vida <= 0){
+	room_restart();
+}
+
