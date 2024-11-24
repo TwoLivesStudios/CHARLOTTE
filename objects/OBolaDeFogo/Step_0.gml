@@ -1,2 +1,3 @@
-x += 4;
-y -= 4;
+if (x > room_width) {
+    instance_destroy();
+}
