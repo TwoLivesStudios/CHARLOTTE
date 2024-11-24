@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"OBruxa3",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"OBruxa1",
+  "eventList":[],
   "managed":true,
-  "name":"OBruxa3",
+  "name":"OBruxa1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SBruxa3",
-    "path":"sprites/SBruxa3/SBruxa3.yy",
+    "name":"Sprite2",
+    "path":"sprites/Sprite2/Sprite2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

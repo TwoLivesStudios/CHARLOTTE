@@ -1,2 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+x = 700
+y = 120;
+verif = true;
+velo = 1.12;

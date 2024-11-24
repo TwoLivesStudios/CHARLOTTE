@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"OBruxa3",
+  "%Name":"OCajado",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"OBruxa3",
+  "name":"OCajado",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SBruxa3",
-    "path":"sprites/SBruxa3/SBruxa3.yy",
+    "name":"Sprite11",
+    "path":"sprites/Sprite11/Sprite11.yy",
   },
   "spriteMaskId":null,
   "visible":true,

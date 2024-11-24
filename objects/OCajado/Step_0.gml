@@ -1,2 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+x = OCharlotte.x;
+y = OCharlotte.y;
+
+image_angle = point_direction(x,y,mouse_x,mouse_y);
