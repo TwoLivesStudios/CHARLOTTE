@@ -1,0 +1,1 @@
+room_goto(ynunez_FASE2);

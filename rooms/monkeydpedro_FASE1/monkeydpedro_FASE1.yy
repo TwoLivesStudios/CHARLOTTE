@@ -13,8 +13,8 @@
   ],
   "name":"monkeydpedro_FASE1",
   "parent":{
-    "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "name":"CHARLOTTE",
+    "path":"CHARLOTTE.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
@@ -27,10 +27,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":800,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":1400,
   },
   "sequenceId":null,
   "views":[
