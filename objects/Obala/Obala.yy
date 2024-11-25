@@ -9,8 +9,8 @@
   "name":"Obala",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obj_Pedro",
-    "path":"folders/Objetos/Obj_Pedro.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
