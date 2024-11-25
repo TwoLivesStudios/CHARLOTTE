@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
+draw_clear_alpha(c_blue, 0.6);
 draw_set_font(fmenu_inicio);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);

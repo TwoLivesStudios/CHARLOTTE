@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
+draw_clear_alpha(c_black, 0.5);
 draw_set_font(fmenu_inicio);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
@@ -34,7 +34,7 @@ for(var i = 0 ; i < tam_menu ; i++)
 				case menu_inicio [1]:
 					room_goto(ynunez_FASE2);
 				break;
-				case menu_inicio [2]: //Sair
+				case menu_inicio [2]: 
 					room_goto(eclipse_FASE3);
 				break;
 			
