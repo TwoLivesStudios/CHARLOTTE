@@ -1,5 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
+/// @description Inserir descrição aqui
+// Você pode escrever seu código neste editor
 
 draw_set_font(fmenu_inicio);
 draw_set_halign(fa_center);
@@ -27,13 +29,13 @@ for(var i = 0 ; i < tam_menu ; i++)
 		if(mouse_check_button_pressed(mb_left)){
 			switch menu_inicio [i]{
 				case menu_inicio [0]:
-					room_goto(tela_cena); // Trocar para a sala chamada "room_gameplay"
+					room_goto(monkeydpedro_FASE1); // Trocar para a sala chamada "room_gameplay"
 				break;
 				case menu_inicio [1]:
-				
+					room_goto(ynunez_FASE2);
 				break;
 				case menu_inicio [2]: //Sair
-					game_end();
+					room_goto(eclipse_FASE3);
 				break;
 			
 			}

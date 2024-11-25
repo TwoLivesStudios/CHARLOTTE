@@ -35,6 +35,7 @@
   },
   "name":"CHARLOTTE",
   "resources":[
+    {"id":{"name":"fmenu_inicio","path":"fonts/fmenu_inicio/fmenu_inicio.yy",},},
     {"id":{"name":"TBotao1","path":"fonts/TBotao1/TBotao1.yy",},},
     {"id":{"name":"TBotao2","path":"fonts/TBotao2/TBotao2.yy",},},
     {"id":{"name":"TBotao3","path":"fonts/TBotao3/TBotao3.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"Buracodabruxa","path":"objects/Buracodabruxa/Buracodabruxa.yy",},},
     {"id":{"name":"Magiadoynunez1","path":"objects/Magiadoynunez1/Magiadoynunez1.yy",},},
     {"id":{"name":"Magiadoynunez2","path":"objects/Magiadoynunez2/Magiadoynunez2.yy",},},
+    {"id":{"name":"ob_cena","path":"objects/ob_cena/ob_cena.yy",},},
     {"id":{"name":"Object16","path":"objects/Object16/Object16.yy",},},
     {"id":{"name":"OBolaDeFogo","path":"objects/OBolaDeFogo/OBolaDeFogo.yy",},},
     {"id":{"name":"OBolaDeLuz","path":"objects/OBolaDeLuz/OBolaDeLuz.yy",},},
@@ -59,6 +61,7 @@
     {"id":{"name":"eclipse_FASE3","path":"rooms/eclipse_FASE3/eclipse_FASE3.yy",},},
     {"id":{"name":"fernando_MENU","path":"rooms/fernando_MENU/fernando_MENU.yy",},},
     {"id":{"name":"monkeydpedro_FASE1","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},},
+    {"id":{"name":"tela_cena","path":"rooms/tela_cena/tela_cena.yy",},},
     {"id":{"name":"ynunez_FASE2","path":"rooms/ynunez_FASE2/ynunez_FASE2.yy",},},
     {"id":{"name":"abroba","path":"sprites/abroba/abroba.yy",},},
     {"id":{"name":"bruxadoynunez","path":"sprites/bruxadoynunez/bruxadoynunez.yy",},},
@@ -91,6 +94,7 @@
     {"roomId":{"name":"monkeydpedro_FASE1","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},},
     {"roomId":{"name":"ynunez_FASE2","path":"rooms/ynunez_FASE2/ynunez_FASE2.yy",},},
     {"roomId":{"name":"eclipse_FASE3","path":"rooms/eclipse_FASE3/eclipse_FASE3.yy",},},
+    {"roomId":{"name":"tela_cena","path":"rooms/tela_cena/tela_cena.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
