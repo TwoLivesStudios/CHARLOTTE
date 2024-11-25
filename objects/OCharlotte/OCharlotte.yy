@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SCharlotte",
-    "path":"sprites/SCharlotte/SCharlotte.yy",
+    "name":"SCharlotteAndando",
+    "path":"sprites/SCharlotteAndando/SCharlotteAndando.yy",
   },
   "spriteMaskId":null,
   "visible":true,
