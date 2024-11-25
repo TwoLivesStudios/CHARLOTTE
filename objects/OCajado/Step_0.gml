@@ -1,4 +1,5 @@
 //O CAJADO SEGUE A CHARLOTTE
+verif_tiro = 0;
 x = OCharlotte.x;
 y = OCharlotte.y;
 

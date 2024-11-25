@@ -1,4 +1,4 @@
-u//MOVIMENTAÇÃO
+//MOVIMENTAÇÃO
 sprite_index = SCharlotteAndando;
 image_xscale = 0.24;
 if (keyboard_check(ord("W"))) {
