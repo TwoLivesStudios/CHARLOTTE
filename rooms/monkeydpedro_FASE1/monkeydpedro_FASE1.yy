@@ -73,7 +73,6 @@
     {"name":"inst_376B1B70","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},
     {"name":"inst_59BC7939","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},
     {"name":"inst_2C6A897F","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},
-    {"name":"inst_6B2032ED","path":"rooms/monkeydpedro_FASE1/monkeydpedro_FASE1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -146,7 +145,6 @@
         {"$GMRInstance":"v1","%Name":"inst_376B1B70","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_376B1B70","objectId":{"name":"Oparede","path":"objects/Oparede/Oparede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":768.0,},
         {"$GMRInstance":"v1","%Name":"inst_59BC7939","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_59BC7939","objectId":{"name":"Oporta","path":"objects/Oporta/Oporta.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":3.0,"x":1370.0,"y":128.0,},
         {"$GMRInstance":"v1","%Name":"inst_2C6A897F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2C6A897F","objectId":{"name":"OBoss1","path":"objects/OBoss1/OBoss1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.3,"scaleY":0.3,"x":672.0,"y":128.0,},
-        {"$GMRInstance":"v1","%Name":"inst_6B2032ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B2032ED","objectId":{"name":"Object16","path":"objects/Object16/Object16.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.25,"scaleY":1.25,"x":1368.0,"y":149.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Ssolo","path":"sprites/Ssolo/Ssolo.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],

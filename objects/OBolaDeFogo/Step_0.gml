@@ -1,3 +1,3 @@
-if (x > room_width) {
+if (x > room_width ) {
     instance_destroy();
 }
