@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Oplayer1",
+  "%Name":"Oarma",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Oplayer1",
+  "name":"Oarma",
   "overriddenProperties":[],
   "parent":{
     "name":"Obj_Pedro",
@@ -31,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SCharlotte",
-    "path":"sprites/SCharlotte/SCharlotte.yy",
+    "name":"Sarma",
+    "path":"sprites/Sarma/Sarma.yy",
   },
-  "spriteMaskId":{
-    "name":"SCharlotte",
-    "path":"sprites/SCharlotte/SCharlotte.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

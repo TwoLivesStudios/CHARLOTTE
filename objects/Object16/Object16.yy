@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Oplayer1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object16",
+  "eventList":[],
   "managed":true,
-  "name":"Oplayer1",
+  "name":"Object16",
   "overriddenProperties":[],
   "parent":{
     "name":"Obj_Pedro",
     "path":"folders/Objetos/Obj_Pedro.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Oparede",
+    "path":"objects/Oparede/Oparede.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SCharlotte",
-    "path":"sprites/SCharlotte/SCharlotte.yy",
+    "name":"Sbloqueio",
+    "path":"sprites/Sbloqueio/Sbloqueio.yy",
   },
-  "spriteMaskId":{
-    "name":"SCharlotte",
-    "path":"sprites/SCharlotte/SCharlotte.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
