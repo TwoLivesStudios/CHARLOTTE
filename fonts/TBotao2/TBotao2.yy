@@ -250,7 +250,7 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"FASE 1",
+  "sampleText":"FASE 2",
   "sdfSpread":8,
   "size":24.0,
   "styleName":"Regular",
