@@ -1,4 +1,5 @@
 //O CAJADO SEGUE A CHARLOTTE
+verif_tiro = 0;
 x = OCharlotte.x;
 y = OCharlotte.y;
 
@@ -13,8 +14,8 @@ if (cooldown > 0) {
 //CRIA O TIRO SEGUINDO MOUSE
 if (mouse_check_button_pressed(mb_left)) {
     var bullet_speed = 4;
-    var bullet_x = x + lengthdir_x(10, image_angle);
-    var bullet_y = y + lengthdir_y(10, image_angle);
+    var bullet_x = x + lengthdir_x(40, image_angle);
+    var bullet_y = y + lengthdir_y(40, image_angle);
 
 	if (cooldown == 0) { 
 		cooldown = cooldown_max;
