@@ -9,8 +9,8 @@
   "name":"Oplayer1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Obj_Pedro",
+    "path":"folders/Objetos/Obj_Pedro.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Splayer1",
-    "path":"sprites/Splayer1/Splayer1.yy",
+    "name":"SCharlotte",
+    "path":"sprites/SCharlotte/SCharlotte.yy",
   },
   "spriteMaskId":null,
   "visible":true,

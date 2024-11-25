@@ -1,12 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"Magiadoynunez1",
+  "%Name":"Bruxazafada",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Magiadoynunez1",
+  "name":"Bruxazafada",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spritemagia1",
-    "path":"sprites/Spritemagia1/Spritemagia1.yy",
+    "name":"bruxadoynunez",
+    "path":"sprites/bruxadoynunez/bruxadoynunez.yy",
   },
   "spriteMaskId":null,
   "visible":true,

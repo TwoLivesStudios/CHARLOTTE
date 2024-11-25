@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Magiadoynunez1",
+  "%Name":"Magiadoynunez2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Magiadoynunez1",
+  "name":"Magiadoynunez2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spritemagia1",
-    "path":"sprites/Spritemagia1/Spritemagia1.yy",
+    "name":"abroba",
+    "path":"sprites/abroba/abroba.yy",
   },
   "spriteMaskId":null,
   "visible":true,
