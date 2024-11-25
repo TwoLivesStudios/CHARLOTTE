@@ -18,8 +18,7 @@ velv = lengthdir_y(vel * tecla, dir);
 
 //Tiro
 if(tiro){
-
-	var _tiro = instance_create_layer(x, y, "Tiros", Obala);
+	var _tiro = instance_create_layer(x, y, "Instances", Obala);
 	_tiro.speed = 10;
 	_tiro.direction = point_direction(x, y, mouse_x, mouse_y);
 }

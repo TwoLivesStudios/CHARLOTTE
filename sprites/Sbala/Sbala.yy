@@ -3,23 +3,23 @@
   "%Name":"Sbala",
   "bboxMode":2,
   "bbox_bottom":5,
-  "bbox_left":2,
+  "bbox_left":1,
   "bbox_right":5,
-  "bbox_top":2,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f39304cf-bf63-4fe4-8821-90b9e6d97061","name":"f39304cf-bf63-4fe4-8821-90b9e6d97061","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3f101c8d-001e-4562-8966-9e1af9b7b346","name":"3f101c8d-001e-4562-8966-9e1af9b7b346","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":8,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c54c93af-a03c-4ee8-b391-f7fbf82dd69d","blendMode":0,"displayName":"default","isLocked":false,"name":"c54c93af-a03c-4ee8-b391-f7fbf82dd69d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"31a0270e-d651-4caf-8df9-9677bea2dca3","blendMode":0,"displayName":"default","isLocked":false,"name":"31a0270e-d651-4caf-8df9-9677bea2dca3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sbala",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f39304cf-bf63-4fe4-8821-90b9e6d97061","path":"sprites/Sbala/Sbala.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2f24a382-bf87-43d3-a6f1-be19fcd35a78","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f101c8d-001e-4562-8966-9e1af9b7b346","path":"sprites/Sbala/Sbala.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7baf67d4-d5c8-44af-95ba-b9017410c80c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
