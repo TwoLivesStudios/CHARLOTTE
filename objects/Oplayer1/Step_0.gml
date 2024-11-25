@@ -41,4 +41,6 @@ else{
 if(vida <= 0){
 	room_restart();
 }
-
+if(place_meeting(x, y, Oporta)){
+	room_goto(ynunez_FASE2);
+}

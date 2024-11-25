@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Abroba",
-    "path":"sprites/Abroba/Abroba.yy",
+    "name":"abroba",
+    "path":"sprites/abroba/abroba.yy",
   },
   "spriteMaskId":null,
   "visible":true,
