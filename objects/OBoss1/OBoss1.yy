@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Oporta",
+  "%Name":"OBoss1",
   "eventList":[],
   "managed":true,
-  "name":"Oporta",
+  "name":"OBoss1",
   "overriddenProperties":[],
   "parent":{
     "name":"Obj_Pedro",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sporta",
-    "path":"sprites/Sporta/Sporta.yy",
+    "name":"SBoss1",
+    "path":"sprites/SBoss1/SBoss1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

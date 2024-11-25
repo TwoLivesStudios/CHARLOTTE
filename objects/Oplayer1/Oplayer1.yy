@@ -9,8 +9,8 @@
   "name":"Oplayer1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Obj_Pedro",
+    "path":"folders/Objetos/Obj_Pedro.yy",
   },
   "parentObjectId":null,
   "persistent":false,
