@@ -1,7 +1,7 @@
 //O CAJADO SEGUE A CHARLOTTE
 verif_tiro = 0;
-x = OCharlotte.x;
-y = OCharlotte.y;
+x = OCharlotte.x+10;
+y = OCharlotte.y+10;
 
 //SALVA A DIREÇÃO DO MOUSE
 image_angle = point_direction(x,y,mouse_x,mouse_y);
@@ -13,7 +13,7 @@ if (cooldown > 0) {
 
 //CRIA O TIRO SEGUINDO MOUSE
 if (mouse_check_button_pressed(mb_left)) {
-    var bullet_speed = 4;
+    var bullet_speed = 8;
     var bullet_x = x + lengthdir_x(40, image_angle);
     var bullet_y = y + lengthdir_y(40, image_angle);
 

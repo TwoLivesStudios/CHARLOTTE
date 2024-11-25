@@ -12,8 +12,8 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Botões","folderPath":"folders/Cenas/Botões.yy","name":"Botões","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Obj_Pedro","folderPath":"folders/Objetos/Obj_Pedro.yy","name":"Obj_Pedro","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprite_Pedro","folderPath":"folders/Sprites/Sprite_Pedro.yy","name":"Sprite_Pedro","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -61,6 +61,7 @@
     {"id":{"name":"SBoss1","path":"sprites/SBoss1/SBoss1.yy",},},
     {"id":{"name":"SBotao","path":"sprites/SBotao/SBotao.yy",},},
     {"id":{"name":"SBruxa3","path":"sprites/SBruxa3/SBruxa3.yy",},},
+    {"id":{"name":"SBruxaATK","path":"sprites/SBruxaATK/SBruxaATK.yy",},},
     {"id":{"name":"SCajado","path":"sprites/SCajado/SCajado.yy",},},
     {"id":{"name":"SCharlotte","path":"sprites/SCharlotte/SCharlotte.yy",},},
     {"id":{"name":"SCharlotteAndando","path":"sprites/SCharlotteAndando/SCharlotteAndando.yy",},},
