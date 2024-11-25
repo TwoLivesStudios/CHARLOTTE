@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Botões",
-    "path":"folders/Objetos/Botões.yy",
+    "path":"folders/Cenas/Botões.yy",
   },
   "parentObjectId":null,
   "persistent":false,

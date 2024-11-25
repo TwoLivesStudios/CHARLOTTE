@@ -1,4 +1,3 @@
-//MOVIMENTAÇÂO MONSTRO
 if (verif) {
     move_towards_point(x, 0, velo);
     if (y <= 0) {
