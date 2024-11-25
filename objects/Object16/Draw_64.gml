@@ -26,13 +26,13 @@ for(var i = 0 ; i < tam_menu ; i++)
 		
 		if(mouse_check_button_pressed(mb_left)){
 			switch menu_inicio [i]{
-				case menu_inicial [0]:
+				case menu_inicio [0]:
+					room_goto(tela_fase); // Trocar para a sala chamada "room_gameplay"
+				break;
+				case menu_inicio [1]:
 				
 				break;
-				case menu_inicial [1]:
-				
-				break;
-				case menu_inicial [2]: //Sair
+				case menu_inicio [2]: //Sair
 					game_end();
 				break;
 			
