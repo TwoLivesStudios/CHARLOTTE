@@ -1,1 +1,1 @@
-instance_create_layer(143, 777, "Instances",  Magiadoynunez1)
+instance_create_layer(766, 95, "Instances",  Magiadoynunez1)

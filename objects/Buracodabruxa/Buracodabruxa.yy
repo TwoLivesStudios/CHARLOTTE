@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Magiadoynunez2",
+  "%Name":"Buracodabruxa",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"OCharlotte","path":"objects/OCharlotte/OCharlotte.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Magiadoynunez2",
+  "name":"Buracodabruxa",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"abroba",
-    "path":"sprites/abroba/abroba.yy",
+    "name":"Spritemagia3",
+    "path":"sprites/Spritemagia3/Spritemagia3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
