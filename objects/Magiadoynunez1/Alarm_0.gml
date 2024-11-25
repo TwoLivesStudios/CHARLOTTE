@@ -1,2 +1,2 @@
-hsp =6
-vsp = 6
+hsp = 10
+vsp = 10

@@ -1,3 +1,3 @@
-hsp = random_range(2, -2)
-vsp = random_range(2, -2)
+hsp = 6
+vsp = 6
 alarm[0] = room_speed*5
