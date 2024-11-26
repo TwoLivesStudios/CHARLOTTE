@@ -3,4 +3,4 @@ for (var i = 0; i < 40; i++) {
     atk.speed = 8;
 	atk.direction = random_range(0, 0);
 }
-alarm[0] = room_speed*12;
+alarm[0] = room_speed*4*random_range(1, 8);
