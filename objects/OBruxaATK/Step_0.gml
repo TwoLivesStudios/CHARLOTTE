@@ -1,7 +1,7 @@
 if(x<OCharlotte.x){
-	x +=6;
+	x +=4;
 }
 if(x>OCharlotte.x){
-	x -=6;
+	x -=4;
 }
-y +=6;
+y +=4;

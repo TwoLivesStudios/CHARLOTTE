@@ -21,3 +21,10 @@ if(place_meeting(x,y,OBolaDeLuz)||place_meeting(x,y,OMonstroATK)){
 	show_message("PERDEU");
 	room_restart();
 }
+
+if(x>=room_width){
+	x = room_width;
+}
+if(x<=0){
+	x = 0;
+}

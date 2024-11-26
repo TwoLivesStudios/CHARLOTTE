@@ -1,5 +1,5 @@
 //CRIA UMA ONDA
-for (var i = 0; i < 24; i++) {
+for (var i = 0; i < 48; i++) {
     var proj = instance_create_layer(x, y,"Instances",OBolaDeLuz);
     proj.direction = random_range(0, 360);
     proj.speed = 4;
