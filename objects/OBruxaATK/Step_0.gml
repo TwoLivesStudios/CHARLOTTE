@@ -7,3 +7,7 @@ if(y <= OCharlotte.y){
 	}
 }
 y +=6;
+
+if(place_meeting(x,y,OBolaDeFogo)){
+	instance_destroy();
+}

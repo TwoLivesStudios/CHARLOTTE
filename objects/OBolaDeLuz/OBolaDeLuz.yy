@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SBotao",
-    "path":"sprites/SBotao/SBotao.yy",
+    "name":"SBolaDeLuz",
+    "path":"sprites/SBolaDeLuz/SBolaDeLuz.yy",
   },
   "spriteMaskId":null,
   "visible":true,
