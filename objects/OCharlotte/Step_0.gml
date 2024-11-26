@@ -1,16 +1,16 @@
 //MOVIMENTAÇÃO
 sprite_index = SCharlotteAndando;
 image_xscale = 0.24;
-if (keyboard_check(ord("W"))) {
+if (keyboard_check(ord("W")) && y>40) {
     y -= 10;
 }
-else if (keyboard_check(ord("A"))) {
+else if (keyboard_check(ord("A")) && x>20) {
     x -= 10;
 }
-else if (keyboard_check(ord("S"))) {
+else if (keyboard_check(ord("S")) && y<700) {
     y += 10
 }
-else if (keyboard_check(ord("D"))) {
+else if (keyboard_check(ord("D")) && x<1380) {
     x += 10;
 	image_xscale = -0.24;
 }else {

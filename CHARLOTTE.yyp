@@ -27,6 +27,9 @@
   "name":"CHARLOTTE",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
+    {"id":{"name":"Font4","path":"fonts/Font4/Font4.yy",},},
     {"id":{"name":"Bruxazafada","path":"objects/Bruxazafada/Bruxazafada.yy",},},
     {"id":{"name":"Buracodabruxa","path":"objects/Buracodabruxa/Buracodabruxa.yy",},},
     {"id":{"name":"Magiadoynunez1","path":"objects/Magiadoynunez1/Magiadoynunez1.yy",},},
