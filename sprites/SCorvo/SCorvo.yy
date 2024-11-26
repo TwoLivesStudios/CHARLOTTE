@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"SCorvo",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":26,
-  "bbox_left":0,
+  "bbox_left":7,
   "bbox_right":31,
   "bbox_top":6,
   "collisionKind":1,

@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"SMonstroATK",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":23,
-  "bbox_left":2,
-  "bbox_right":25,
+  "bbox_left":9,
+  "bbox_right":23,
   "bbox_top":5,
   "collisionKind":1,
   "collisionTolerance":0,
