@@ -11,6 +11,7 @@ dir = point_direction(0,0, direita - esquerda, baixo - cima);
 velh = lengthdir_x(vel * tecla, dir);
 velv = lengthdir_y(vel * tecla, dir);
 
+
 //x += velh;
 //y += velv;
 
@@ -29,6 +30,7 @@ if(tiro){
 		_tiro.direction = point_direction(x, y, mouse_x, mouse_y);
 	}
 }
+
 
 
 repeat(abs(velh)){
