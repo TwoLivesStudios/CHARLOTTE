@@ -46,9 +46,14 @@ else{
 }
 
 //VIDA
-if(vida <= 0){
+if(life <= 0){
+	instance_destroy();
+	
 	room_restart();
 }
+
+
+//Transição
 if(place_meeting(x, y, Oporta)){
 	room_goto(ynunez_FASE2);
 }
