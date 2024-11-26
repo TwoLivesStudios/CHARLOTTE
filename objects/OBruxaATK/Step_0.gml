@@ -1,9 +1,9 @@
 if(y <= OCharlotte.y){
 	if(x<OCharlotte.x){
-		x +=4;
+		x +=6;
 	}
 	if(x>OCharlotte.x){
-		x -=4;
+		x -=6;
 	}
 }
-y +=4;
+y +=6;

@@ -4,4 +4,4 @@
 	proj.image_xscale = 2;
 	proj.image_yscale = 2;
 //}
-alarm[2] = room_speed*12
+alarm[2] = room_speed*4;

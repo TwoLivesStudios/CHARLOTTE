@@ -17,7 +17,7 @@ else if (keyboard_check(ord("D"))) {
     sprite_index = SCharlotte;
 }
 
-if(place_meeting(x,y,OBolaDeLuz)||place_meeting(x,y,OMonstroATK)){
+if(place_meeting(x,y,OBolaDeLuz)||place_meeting(x,y,OMonstroATK)||place_meeting(x,y,OBruxa3)||place_meeting(x,y,OCorvo)||place_meeting(x,y,OBruxaATK)||place_meeting(x,y,OMonstro)){
 	show_message("PERDEU");
 	room_restart();
 }
