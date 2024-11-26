@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"SBotao",
+  "%Name":"SCharlotte2",
   "bboxMode":0,
-  "bbox_bottom":63,
-  "bbox_left":0,
-  "bbox_right":63,
-  "bbox_top":0,
+  "bbox_bottom":629,
+  "bbox_left":329,
+  "bbox_right":559,
+  "bbox_top":84,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1be034ad-65c8-48d4-89c8-68b654f3a643","name":"1be034ad-65c8-48d4-89c8-68b654f3a643","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0da023bb-a9ef-4019-902a-8483cd71d452","name":"0da023bb-a9ef-4019-902a-8483cd71d452","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":896,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7ddc22c4-dd07-4e22-b59e-29e439d7608a","blendMode":0,"displayName":"default","isLocked":false,"name":"7ddc22c4-dd07-4e22-b59e-29e439d7608a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"db3c09f9-5ee6-4229-80f7-ad88ab79268f","blendMode":0,"displayName":"default","isLocked":false,"name":"db3c09f9-5ee6-4229-80f7-ad88ab79268f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"SBotao",
+  "name":"SCharlotte2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"SBotao",
+    "%Name":"SCharlotte2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"SBotao",
+    "name":"SCharlotte2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1be034ad-65c8-48d4-89c8-68b654f3a643","path":"sprites/SBotao/SBotao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"488dc387-0529-4899-9b7c-5eb491cfabe1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0da023bb-a9ef-4019-902a-8483cd71d452","path":"sprites/SCharlotte2/SCharlotte2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d80c229f-34bc-4274-8afa-2115b7af3d4f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":896,
 }
