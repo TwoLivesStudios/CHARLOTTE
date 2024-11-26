@@ -39,6 +39,7 @@
     {"id":{"name":"OBotao3","path":"objects/OBotao3/OBotao3.yy",},},
     {"id":{"name":"OBruxa1","path":"objects/OBruxa1/OBruxa1.yy",},},
     {"id":{"name":"OBruxa3","path":"objects/OBruxa3/OBruxa3.yy",},},
+    {"id":{"name":"OBruxaATK","path":"objects/OBruxaATK/OBruxaATK.yy",},},
     {"id":{"name":"OCajado","path":"objects/OCajado/OCajado.yy",},},
     {"id":{"name":"OCharlotte","path":"objects/OCharlotte/OCharlotte.yy",},},
     {"id":{"name":"OMonstro","path":"objects/OMonstro/OMonstro.yy",},},

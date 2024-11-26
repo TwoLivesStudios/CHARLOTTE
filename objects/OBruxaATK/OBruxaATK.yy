@@ -1,16 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obala",
+  "%Name":"OBruxaATK",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obala",
+  "name":"OBruxaATK",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obj_Pedro",
-    "path":"folders/Objetos/Obj_Pedro.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sbala",
-    "path":"sprites/Sbala/Sbala.yy",
+    "name":"SBruxaATK",
+    "path":"sprites/SBruxaATK/SBruxaATK.yy",
   },
   "spriteMaskId":null,
   "visible":true,
