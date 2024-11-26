@@ -17,10 +17,17 @@ velv = lengthdir_y(vel * tecla, dir);
 //Colisão
 
 //Tiro
+if (cooldown > 0) {
+    cooldown--;
+}
+
 if(tiro){
-	var _tiro = instance_create_layer(x, y, "Instances", Obala);
-	_tiro.speed = 10;
-	_tiro.direction = point_direction(x, y, mouse_x, mouse_y);
+	if (cooldown == 0) { 
+		cooldown = cooldown_max;
+		var _tiro = instance_create_layer(x, y, "Instances", Obala);
+		_tiro.speed = 5;
+		_tiro.direction = point_direction(x, y, mouse_x, mouse_y);
+	}
 }
 
 
@@ -46,9 +53,14 @@ else{
 }
 
 //VIDA
-if(vida <= 0){
+if(life <= 0){
+	instance_destroy();
+	
 	room_restart();
 }
+
+
+//Transição
 if(place_meeting(x, y, Oporta)){
 	room_goto(ynunez_FASE2);
 }

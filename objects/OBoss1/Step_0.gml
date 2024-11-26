@@ -1,8 +1,4 @@
 
-
-
-
- //Move o objeto
 x += velocidade * direcao;
  //Verifica se chegou nos limites
 if (x >= limite_direita) {
@@ -16,3 +12,12 @@ if (x <= limite_esquerda) {
 	//x = lerp(x, Oplayer1.x, 0.04);
 	//x = lerp(x, Oplayer1.x, 2);
 //}
+
+
+if(lifeboss <= 0){
+	//x = lerp(x, Oplayer1.x, 0.04);
+	//x = lerp(x, Oplayer1.x, 2);
+	instance_destroy(Oblock);
+	instance_destroy();
+}
+
