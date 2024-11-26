@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Parede",
-    "path":"sprites/Parede/Parede.yy",
+    "name":"SMonstro",
+    "path":"sprites/SMonstro/SMonstro.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,6 +1,6 @@
 if (verif) {
-    move_towards_point(x, 0, velo);
-    if (y <= 0) {
+    move_towards_point(x, 160, velo);
+    if (y <=  160) {
         verif = false;
     }
 } else {
